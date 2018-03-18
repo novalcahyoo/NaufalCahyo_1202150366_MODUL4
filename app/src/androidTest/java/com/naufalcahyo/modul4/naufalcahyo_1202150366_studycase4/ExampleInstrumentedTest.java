@@ -1,4 +1,4 @@
-package com.naufalcahyo.modul4.naufalcahyo_1202150366_modul4;
+package com.naufalcahyo.modul4.naufalcahyo_1202150366_studycase4;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

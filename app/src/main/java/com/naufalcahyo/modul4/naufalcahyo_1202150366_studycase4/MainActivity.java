@@ -1,4 +1,4 @@
-package com.naufalcahyo.modul4.naufalcahyo_1202150366_modul4;
+package com.naufalcahyo.modul4.naufalcahyo_1202150366_studycase4;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

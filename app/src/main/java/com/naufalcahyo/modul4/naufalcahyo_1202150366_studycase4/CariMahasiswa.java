@@ -1,7 +1,5 @@
-package com.naufalcahyo.modul4.naufalcahyo_1202150366_modul4;
+package com.naufalcahyo.modul4.naufalcahyo_1202150366_studycase4;
 
-import android.app.Activity;
-import android.support.v4.app.Fragment;
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.os.AsyncTask;

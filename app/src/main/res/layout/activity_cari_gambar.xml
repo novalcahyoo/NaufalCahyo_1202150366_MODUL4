@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.naufalcahyo.modul4.naufalcahyo_1202150366_modul4.CariGambar">
+    tools:context="com.naufalcahyo.modul4.naufalcahyo_1202150366_studycase4.CariGambar">
 
     <TextView
         android:id="@+id/textView2"

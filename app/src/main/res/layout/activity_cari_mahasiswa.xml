@@ -8,7 +8,7 @@
     android:paddingRight="16dp"
     android:paddingTop="16dp"
     android:paddingBottom="16dp"
-    tools:context="com.naufalcahyo.modul4.naufalcahyo_1202150366_modul4.CariMahasiswa">
+    tools:context="com.naufalcahyo.modul4.naufalcahyo_1202150366_studycase4.CariMahasiswa">
 
     <TextView
         android:id="@+id/textView"

@@ -1,14 +1,11 @@
-package com.naufalcahyo.modul4.naufalcahyo_1202150366_modul4;
+package com.naufalcahyo.modul4.naufalcahyo_1202150366_studycase4;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.AsyncTask;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.view.Window;
-import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
